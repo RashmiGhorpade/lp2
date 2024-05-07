@@ -1,0 +1,5 @@
+mongo : mongodb+srv://ghorpaderashmi45:ray123@cluster0.lpobpnk.mongodb.net/mydb
+github : Rashmi@45
+ghorpaderashmi45@gmail.com : Rashmi@45
+
+mangata@30 ghorpaderashmi45@gmail.com - mongodb atlas
